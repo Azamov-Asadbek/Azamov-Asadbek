@@ -5,4 +5,3 @@
 
 [![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Asadbek&theme=github_dark&&hide_border=true)](https://wakatime.com/@Asadbek)
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Azamov-Asadbek&repo=AsadbekAzamov.uz&theme=github_dark&&hide_border=true)]([[https://github.com/anuraghazra/github-readme-stats](https://github.com/Azamov-Asadbek/AsadbekAzamov.uz)](https://github.com/Azamov-Asadbek/AsadbekAzamov.uz)) 
